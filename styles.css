@@ -1,9 +1,13 @@
 .gridRow {
     /* background-color: blueviolet; */
     display: flex;
-    width: fit-content;
+    width:auto
 
 }
 .gridSquare {
     /* border: 2px solid aqua; */
+}
+
+#sketchContainer{
+    width: 600px;
 }
