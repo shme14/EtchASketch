@@ -6,7 +6,6 @@ const squareSizeInputBtn = document.querySelector('#squareSizeInputBtn');
 
 var colors = ['red','blue','green','yellow'];
 var random_color = colors[Math.floor(Math.random() * colors.length)];
-let squareSize = '20px';
 let xGrid = 16;
 let yGrid = 16;
 createGrid(xGrid,yGrid)
